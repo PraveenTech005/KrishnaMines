@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/KrishnaMines/static/css/main.0fe826e6.css",
-    "main.js": "/KrishnaMines/static/js/main.dec5c553.js",
+    "main.css": "/KrishnaMines/static/css/main.c27b9255.css",
+    "main.js": "/KrishnaMines/static/js/main.0250e869.js",
     "static/media/limestone.jpg": "/KrishnaMines/static/media/limestone.f45455ba11942d669547.jpg",
     "static/media/Brochure.pdf": "/KrishnaMines/static/media/Brochure.311713d04505fc505b9d.pdf",
-    "static/media/products.jpg": "/KrishnaMines/static/media/products.64b593a246382ffdb79a.jpg",
-    "static/media/home.jpg": "/KrishnaMines/static/media/home.cb11412371f524c443af.jpg",
     "static/media/air.jpg": "/KrishnaMines/static/media/air.3a8f6fef2def88f4682d.jpg",
-    "static/media/contact.png": "/KrishnaMines/static/media/contact.458c767f89193ff065ec.png",
-    "static/media/award.jpg": "/KrishnaMines/static/media/award.b614c9f8a1a19b9a6c44.jpg",
-    "static/media/about.jpg": "/KrishnaMines/static/media/about.d4ebfa12c122aef9ce8e.jpg",
     "static/media/education.jpg": "/KrishnaMines/static/media/education.72c83e6a84ba3c6dfab1.jpg",
     "static/media/Aglime1.png": "/KrishnaMines/static/media/Aglime1.5188fb702c450484344b.png",
     "static/media/workforce.png": "/KrishnaMines/static/media/workforce.000e8779c3e467080cb1.png",
@@ -32,7 +27,6 @@
     "static/media/Waterproofwallputty1.png": "/KrishnaMines/static/media/Waterproofwallputty1.4b404eb211c3d3abd8ad.png",
     "static/media/mont-bold.ttf": "/KrishnaMines/static/media/mont-bold.50f0257aa1e905f4bfaf.ttf",
     "static/media/mont.ttf": "/KrishnaMines/static/media/mont.93b37a465fc4ec0d0415.ttf",
-    "static/media/wecare.jpg": "/KrishnaMines/static/media/wecare.00f22029705de152b193.jpg",
     "static/media/awards.png": "/KrishnaMines/static/media/awards.9efdac199b093b7ebf18.png",
     "static/media/founder.png": "/KrishnaMines/static/media/founder.2bc7f7e4cf21627ba74b.png",
     "static/media/environment.jpg": "/KrishnaMines/static/media/environment.4e7b855adef142119675.jpg",
@@ -41,13 +35,19 @@
     "static/media/indmar.png": "/KrishnaMines/static/media/indmar.b9ad8d405571151ee0a0.png",
     "static/media/super.png": "/KrishnaMines/static/media/super.3f5eec5e8351da0137d7.png",
     "static/media/logo.png": "/KrishnaMines/static/media/logo.c462d2eaa889214776fb.png",
+    "static/media/home.png": "/KrishnaMines/static/media/home.c4f7c0a8735279a02f35.png",
     "static/media/alpine.png": "/KrishnaMines/static/media/alpine.14e9c74656ae18c910f3.png",
+    "static/media/care.svg": "/KrishnaMines/static/media/care.a8ec1befa97144348bc4.svg",
+    "static/media/about.svg": "/KrishnaMines/static/media/about.82737ec9e48f5a1ae58b.svg",
+    "static/media/products.svg": "/KrishnaMines/static/media/products.2372a54aca1c35c23226.svg",
+    "static/media/award.svg": "/KrishnaMines/static/media/award.9bbf9cb1ee4c5ee5131a.svg",
     "index.html": "/KrishnaMines/index.html",
-    "main.0fe826e6.css.map": "/KrishnaMines/static/css/main.0fe826e6.css.map",
-    "main.dec5c553.js.map": "/KrishnaMines/static/js/main.dec5c553.js.map"
+    "static/media/contact.svg": "/KrishnaMines/static/media/contact.68aea8d2df8c528108f7.svg",
+    "main.c27b9255.css.map": "/KrishnaMines/static/css/main.c27b9255.css.map",
+    "main.0250e869.js.map": "/KrishnaMines/static/js/main.0250e869.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fe826e6.css",
-    "static/js/main.dec5c553.js"
+    "static/css/main.c27b9255.css",
+    "static/js/main.0250e869.js"
   ]
 }
