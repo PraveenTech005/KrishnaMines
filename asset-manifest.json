@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/KrishnaMines/static/css/main.c27b9255.css",
-    "main.js": "/KrishnaMines/static/js/main.0250e869.js",
+    "main.css": "/KrishnaMines/static/css/main.c942b8af.css",
+    "main.js": "/KrishnaMines/static/js/main.943eea60.js",
     "static/media/limestone.jpg": "/KrishnaMines/static/media/limestone.f45455ba11942d669547.jpg",
     "static/media/Brochure.pdf": "/KrishnaMines/static/media/Brochure.311713d04505fc505b9d.pdf",
     "static/media/air.jpg": "/KrishnaMines/static/media/air.3a8f6fef2def88f4682d.jpg",
@@ -35,19 +35,19 @@
     "static/media/indmar.png": "/KrishnaMines/static/media/indmar.b9ad8d405571151ee0a0.png",
     "static/media/super.png": "/KrishnaMines/static/media/super.3f5eec5e8351da0137d7.png",
     "static/media/logo.png": "/KrishnaMines/static/media/logo.c462d2eaa889214776fb.png",
-    "static/media/home.png": "/KrishnaMines/static/media/home.c4f7c0a8735279a02f35.png",
+    "static/media/about.png": "/KrishnaMines/static/media/about.fbeb6b92d9fbe1784842.png",
+    "static/media/home.png": "/KrishnaMines/static/media/home.74f34bc88b971d1efdc1.png",
     "static/media/alpine.png": "/KrishnaMines/static/media/alpine.14e9c74656ae18c910f3.png",
     "static/media/care.svg": "/KrishnaMines/static/media/care.a8ec1befa97144348bc4.svg",
-    "static/media/about.svg": "/KrishnaMines/static/media/about.82737ec9e48f5a1ae58b.svg",
-    "static/media/products.svg": "/KrishnaMines/static/media/products.2372a54aca1c35c23226.svg",
+    "static/media/products.svg": "/KrishnaMines/static/media/products.e8a9b87255364e6f57a8.svg",
     "static/media/award.svg": "/KrishnaMines/static/media/award.9bbf9cb1ee4c5ee5131a.svg",
     "index.html": "/KrishnaMines/index.html",
     "static/media/contact.svg": "/KrishnaMines/static/media/contact.68aea8d2df8c528108f7.svg",
-    "main.c27b9255.css.map": "/KrishnaMines/static/css/main.c27b9255.css.map",
-    "main.0250e869.js.map": "/KrishnaMines/static/js/main.0250e869.js.map"
+    "main.c942b8af.css.map": "/KrishnaMines/static/css/main.c942b8af.css.map",
+    "main.943eea60.js.map": "/KrishnaMines/static/js/main.943eea60.js.map"
   },
   "entrypoints": [
-    "static/css/main.c27b9255.css",
-    "static/js/main.0250e869.js"
+    "static/css/main.c942b8af.css",
+    "static/js/main.943eea60.js"
   ]
 }
