@@ -1,0 +1,178 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: empire;
+  src: url("./assets/fonts/empire.otf");
+}
+
+@font-face {
+  font-family: mont;
+  src: url("./assets/fonts/mont.ttf");
+}
+
+@font-face {
+  font-family: montbold;
+  src: url("./assets/fonts/mont-bold.ttf");
+}
+
+@font-face {
+  font-family: ubuntu;
+  src: url("./assets/fonts/ubuntu.ttf");
+}
+
+@font-face {
+  font-family: ubuntubold;
+  src: url("./assets/fonts/ubuntu-bold.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.3s;
+  scroll-behavior: smooth;
+}
+
+.fontempire {
+  font-family: empire;
+  letter-spacing: 3px;
+}
+
+.mont {
+  font-family: mont;
+  letter-spacing: 1px;
+}
+
+.montbold {
+  font-family: montbold;
+  letter-spacing: 1px;
+}
+
+.ubuntu {
+  font-family: ubuntu;
+  letter-spacing: 1px;
+}
+
+.ubuntubold {
+  font-family: ubuntubold;
+  letter-spacing: 1px;
+}
+
+#home {
+  background: url("./assets/img/home.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#about {
+  background: url("./assets/img/about.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#product {
+  background: url("./assets/img/products.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#care {
+  background: url("./assets/img/care.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#recognition {
+  background: url("./assets/img/award.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#contact {
+  background: url("./assets/img/contact.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.nav {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+p {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  backdrop-filter: blur(5px);
+  font-family: ubuntu;
+  border-radius: 1pc;
+  height: auto;
+  text-align: justify;
+  cursor: pointer;
+}
+
+p:hover {
+  background-color: black;
+}
+
+p span {
+  font-family: montbold;
+}
+
+.bg-blurw {
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(5px);
+  border-radius: 1pc;
+  border: 2px solid black;
+}
+
+.hover-w:hover {
+  background-color: black;
+}
+
+.bg-blurb {
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5px);
+  border-radius: 1pc;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  border: 2px solid black;
+  border-radius: 1pc;
+  background-color: white;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: black;
+  border-radius: 1pc;
+}
+
+.menu {
+  width: 35px;
+  height: 25px;
+}
+
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.change .bar1 {
+  transform: translate(0px, 7px) rotate(45deg);
+}
+.change .bar2 {
+  opacity: 0;
+}
+.change .bar3 {
+  transform: translate(0px, -7px) rotate(-45deg);
+}
