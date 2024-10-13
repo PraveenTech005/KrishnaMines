@@ -93,7 +93,7 @@ const Product = () => {
                   ? products[`${modal}2`]
                   : products.LimeStone2
               }
-              target="_top"
+              target="_blank"
               rel="noopener noreferrer"
             >
               <h1 className="flex-1 p-3 text-center font-bold ubuntubold uppercase border-b-2 border-black">
