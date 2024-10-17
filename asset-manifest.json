@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/KrishnaMines/static/css/main.512d54a9.css",
-    "main.js": "/KrishnaMines/static/js/main.d98cb521.js",
+    "main.css": "/KrishnaMines/static/css/main.38b32d62.css",
+    "main.js": "/KrishnaMines/static/js/main.48976779.js",
     "static/media/limestone.jpg": "/KrishnaMines/static/media/limestone.f45455ba11942d669547.jpg",
     "static/media/Brochure.pdf": "/KrishnaMines/static/media/Brochure.311713d04505fc505b9d.pdf",
     "static/media/air.jpg": "/KrishnaMines/static/media/air.3a8f6fef2def88f4682d.jpg",
@@ -43,11 +43,11 @@
     "static/media/award.svg": "/KrishnaMines/static/media/award.9bbf9cb1ee4c5ee5131a.svg",
     "index.html": "/KrishnaMines/index.html",
     "static/media/contact.svg": "/KrishnaMines/static/media/contact.68aea8d2df8c528108f7.svg",
-    "main.512d54a9.css.map": "/KrishnaMines/static/css/main.512d54a9.css.map",
-    "main.d98cb521.js.map": "/KrishnaMines/static/js/main.d98cb521.js.map"
+    "main.38b32d62.css.map": "/KrishnaMines/static/css/main.38b32d62.css.map",
+    "main.48976779.js.map": "/KrishnaMines/static/js/main.48976779.js.map"
   },
   "entrypoints": [
-    "static/css/main.512d54a9.css",
-    "static/js/main.d98cb521.js"
+    "static/css/main.38b32d62.css",
+    "static/js/main.48976779.js"
   ]
 }
