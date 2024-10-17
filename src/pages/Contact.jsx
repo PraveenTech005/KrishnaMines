@@ -71,6 +71,9 @@ const Contact = () => {
           </div>
         </div>
       </div>
+      <div className="bg-neutral-800 text-sm py-5 md:py-3 ubuntu text-white text-center">
+        &copy; 2024 Krishna Mines Group. All Rights Reserved.
+      </div>
     </div>
   );
 };
